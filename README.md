@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Deyoungj!
+# 👋 Hi, I’m Chidi!
 
-### 🚀 Innovate, Transform, Succeed
+### 🚀 *Innovate, Transform, Succeed*
 
 I’m a passionate software developer focused on building scalable, modern, and impactful digital solutions. From robust backend systems to full-stack web and mobile apps, I deliver performance, innovation, and clean architecture—always aiming to turn ideas into reality.
 
@@ -8,11 +8,11 @@ I’m a passionate software developer focused on building scalable, modern, and 
 
 ### 🧠 What I Do
 
-- 🔧 **Backend Development:** APIs, systems, and automations built for performance and scalability
-- 🌐 **Web Development:** Frontend and full-stack web apps using modern frameworks
-- 📱 **Mobile Development:** React Native & Flutter apps that feel native and work everywhere
-- 🧾 **Automation & Scripting:** Custom Python tools to automate and optimize processes
-- 💡 **Open to Any Stack:** I adopt the best tools for the job to deliver results
+- 🔧 **Backend Development** – APIs, systems & automations built for speed and scalability  
+- 🌐 **Web Development** – Modern frontend and full-stack applications  
+- 📱 **Mobile Development** – Cross-platform apps with React Native & Flutter  
+- 🧾 **Automation & Scripting** – Python-based tools that simplify and optimize  
+- 💡 **Tech-Agnostic** – I use the best tools for the job to get things done right  
 
 ---
 
@@ -33,20 +33,31 @@ I’m a passionate software developer focused on building scalable, modern, and 
 
 ### 🔥 Featured Projects
 
-- 💳 **PayFlow** – Fintech platform offering crypto ↔ fiat, P2P transfers, and bill payments  
-- 📈 **TetherSurge** – Smart investment platform for crypto and traditional assets  
-- ✈️ **AeroLux** – Seamless travel booking for flights, hotels, and private jets  
-- 📬 **SMTP SaaS** – AI-powered email sending system with SMTP integration and multi-user support  
+- 💳 **PayFlow** – Fintech platform for crypto ↔ fiat, P2P transfers, and bill payments  
+- 📈 **TetherSurge** – Investment platform for crypto and traditional assets  
+- ✈️ **AeroLux** – Travel booking for flights, hotels, and private jets  
+- 📬 **SMTP SaaS** – AI-powered email delivery platform with multi-user support  
 
 ---
 
-### 🌍 Open-Minded Development
+### 🚧 Currently Working On
 
-> I’m flexible and tech-agnostic — willing to explore any stack that enhances performance and results. Rust, Go, TypeScript, Node.js? If it helps, I’ll use it.
+- 🔁 **PayFlow v2** – Adding multi-wallet support, better crypto ↔ fiat swaps, and KYC  
+- 📨 **SMTP AI Assistant** – AI-based auto email responder & campaign analyzer  
+- 🏦 **TetherSurge Expansion** – New investment tools, referral system, and real-time insights  
+- 🌍 **AeroLux Marketplace** – Adding hotel reservations, visa services, and user dashboard  
+- 📦 **Custom Package Manager** – Fast and lightweight CLI like `uv` for Python devs  
+- ⚙️ **Build Tool (like Vite)** – For React and React Native with optimized builds and hot reload
 
 ---
 
-### 🤝 Let’s Connect & Collaborate!
+### 🌍 My Approach
+
+> I’m flexible and performance-driven — I’ll pick up Rust, Go, TypeScript, or whatever stack is needed to get the job done efficiently.
+
+---
+
+### 🤝 Connect with Me
 
 - 🌐 [deyoungtech.com](https://deyoungtech.com)  
 - 📺 [YouTube: DeyoungTech](https://www.youtube.com/@DeyoungTech)  
@@ -57,22 +68,22 @@ I’m a passionate software developer focused on building scalable, modern, and 
 
 ### 🤗 Community & Collaboration
 
-- 💬 I love open-source! Check out my contributions or reach out if you want to collaborate.
-- 🛠️ Always open to freelance work, partnerships, and new ideas.
+- 💬 I enjoy open-source contributions—feel free to explore my repos or reach out for collaboration  
+- 🛠️ Open to freelance opportunities, startup partnerships, and creative tech ideas  
 
 ---
 
-### 🎯 Fun Facts & Philosophy
+### 🎯 A Bit More About Me
 
-- 🔄 Always learning, adapting, and improving
-- 🛠️ Focused on solving problems, not just writing code
-- 📍 Based in Nigeria, building tools for a global audience
+- 🔄 Always learning, evolving, and refining my craft  
+- 🧠 Obsessed with solving problems, not just writing code  
+- 🌍 Proudly building from Nigeria for a global audience  
 
 ---
 
 ### 📊 GitHub Stats
 
-![Deyoungj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deyoungj&show_icons=true&theme=radical)
+![Deyoungj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deyoungj&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyoungj&layout=compact&theme=radical)
 
 ---
